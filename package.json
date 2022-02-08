@@ -1,0 +1,15 @@
+{
+  "name": "vite-plugin-external-modules",
+  "version": "1.0.0",
+  "description": "A plugin to import local folders dependencies with hot reloading during development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vite",
+    "external"
+  ],
+  "author": "Simon Nilsson <simon@axenu.com>",
+  "license": "ISC"
+}
